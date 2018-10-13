@@ -1,2 +1,7 @@
 # Colours
 Recreation of the 2012 experiment published in the Proceedings of the National Academy of Sciences
+http://www.pnas.org/content/109/18/6819#sec-6
+
+Abstract from the paper:
+
+One of the fundamental problems in cognitive science is how humans categorize the visible color spectrum. The empirical evidence of the existence of universal or recurrent patterns in color naming across cultures is paralleled by the observation that color names begin to be used by individual cultures in a relatively fixed order. The origin of this hierarchy is largely unexplained. Here we resort to multiagent simulations, where a population of individuals, subject to a simple perceptual constraint shared by all humans, namely the human Just Noticeable Difference, categorizes and names colors through a purely cultural negotiation in the form of language games. We found that the time needed for a population to reach consensus on a color name depends on the region of the visible color spectrum. If color spectrum regions are ranked according to this criterion, a hierarchy with [red, (magenta)-red], [violet], [green/yellow], [blue], [orange], and [cyan], appearing in this order, is recovered, featuring an excellent quantitative agreement with the empirical observations of the WCS. Our results demonstrate a clear possible route to the emergence of hierarchical color categories, confirming that the theoretical modeling in this area has now attained the required maturity to make significant contributions to the ongoing debates concerning language universals.
